@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.stream.StreamSupport;
 
 @Component
-@Order(2)
+@Order(3)
 @Slf4j
 public class CreateBooks implements CommandLineRunner {
     @Autowired

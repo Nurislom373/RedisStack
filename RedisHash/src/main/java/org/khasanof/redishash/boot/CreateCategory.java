@@ -3,7 +3,6 @@ package org.khasanof.redishash.boot;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
-import org.khasanof.redishash.model.Book;
 import org.khasanof.redishash.model.Category;
 import org.khasanof.redishash.repository.CategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,7 +14,7 @@ import java.io.InputStream;
 import java.util.List;
 
 @Component
-@Order(1)
+@Order(2)
 @Slf4j
 public class CreateCategory implements CommandLineRunner {
 
