@@ -1,20 +1,66 @@
 [
   {
-    "name": "programming"
+    "id": "2fd916fe-7ff8-44c7-9f86-ca388565256c",
+    "name": "mongodb"
   },
   {
-    "name": "drama"
+    "id": "9615a135-7472-48fc-b8ac-a5516a2c8b22",
+    "name": "dynamodb"
   },
   {
-    "name": "melodarama"
+    "id": "f2ada1e2-7c18-4d90-bfe7-e321b650c0a3",
+    "name": "redis"
   },
   {
-    "name": "movue"
+    "id": "08fc8148-d924-4d2e-af7e-f5fe6f2861f0",
+    "name": "elixir"
   },
   {
-    "name": "zek"
+    "id": "b6a0b57b-ebb8-4d98-9352-8236256dbc27",
+    "name": "microservices"
   },
   {
-    "name": "leck"
+    "id": "7821fd6a-ec94-4ac6-8089-a480a7c7f2ee",
+    "name": "elastic_search"
+  },
+  {
+    "id": "f2be1bc3-1700-45f5-a300-2c4cf2f90583",
+    "name": "hbase"
+  },
+  {
+    "id": "31c8ea64-cad2-40d9-b0f6-30b8ea6fcbfb",
+    "name": "reactjs"
+  },
+  {
+    "id": "5e527af7-93a1-4c00-8f20-f89e89a213e8",
+    "name": "apache_spark"
+  },
+  {
+    "id": "9d5c025e-bf38-4b50-a971-17e0b7408385",
+    "name": "java"
+  },
+  {
+    "id": "bcb2a01c-9b0a-4846-b1be-670168b5d768",
+    "name": "clojure"
+  },
+  {
+    "id": "aba53bb9-7cfa-4b65-8900-8c7e857311c6",
+    "name": "couchbase"
+  },
+  {
+    "id": "bd1b2877-1564-4def-b3f7-18871165ff10",
+    "name": "riak"
+  },
+  {
+    "id": "47d9a769-bbc2-4068-b27f-2b800bec1565",
+    "name": "kotlin"
+  },
+  {
+    "id": "400c8f5a-953b-4b8b-b21d-045535d8084d",
+    "name": "nosql_big_data"
+  },
+  {
+    "id": "06bc25ff-f2ab-481b-a4d9-819552dea0e0",
+    "name": "javascript"
   }
 ]
